@@ -1,0 +1,15 @@
+We'll be covering the basics of touch events in this 45 minute exercise. I'll walk through the steps required to capture three different types of touch events and explain how you can use these to build a simple web based game you can play in your browser.
+
+This meet up will require some experience with javascript but all knowledge levels are welcome. Please download the iOS or Android simulators before the event as this will make testing our work more realistic. I would strongly recommend the iOS simulators if you're running OSX: they're much easier to start and use.
+
+iOS - http://connect.apple.com/cgi-bin/WebObjects/MemberSite.woa/wa/getSoftware?bundleID=20792
+	* I believe the most recent version of XCode requires you to be a paid apple developer? Download XCode3 instead, it's free. 
+	* You'll have to sign up for an AppleID if you don't have one
+Android - http://developer.android.com/sdk/index.html
+
+Example Files can be downloaded from GitHub (zip package available) - https://github.com/joelongstreet/UpFront_06152011
+
+
+* Wireless Username/Password
+* Extra Reading - Developer.apple.com
+http://developer.apple.com/library/safari/#documentation/appleapplications/reference/safariwebcontent/Introduction/Introduction.html#//apple_ref/doc/uid/TP40002079-SW1

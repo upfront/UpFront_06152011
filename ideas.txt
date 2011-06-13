@@ -1,0 +1,11 @@
+//make a switcher to change between surfaces
+//hockey on ice - move the background to simulate greater distances
+//soccer on grass - use a sprite on the soccer ball to show movement
+//skip rocks on water using an easing function that has a bunch of stops
+//use a golf club to swing both ways
+//something on sand to show a fast stop
+//show field animation using css3?
+//the way velocity is calculates is messed up
+//file size is too high
+
+
